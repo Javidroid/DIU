@@ -37,7 +37,6 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 -----
 
 >>> Hemos seleccionado estas personas porque consideramos que podrían ser usuarios típicos, pero saliéndonos de lo básico y común
-
 ![Agatha Schneider](img/Agatha_Schneider_UP.png)
 ![Heinz Müller](img/Heinz_Muller_UP.png)
 
@@ -45,8 +44,7 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![Agatha Schneider](img/Agatha_Schneider_JM.jpg)
-
+<<<![Agatha Schneider](img/Agatha_Schneider_JM.jpg)
 ![Heinz Müller](img/Heinz_Muller_JM.png)
 
 
@@ -115,16 +113,17 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> MoodBoard:
+![MoodBoard](P3/MoodBoard.png)
 
+>>> ![LogoRestaurant4U](img/logo.png)
+El logotipo realmente es una imagen cogida de internet
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> ![LandingPage](P3/LandngPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
