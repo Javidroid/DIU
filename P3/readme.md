@@ -5,10 +5,11 @@
 
 
 ## Landing Page
+![LandingPage](LandingPage.png)
 
 
 ## Mockup: LAYOUT HI-FI
-
+![Protopie](Hifi Project.pie)
 
 ## Documentación: Publicación del Case Study
 
