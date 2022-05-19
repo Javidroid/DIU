@@ -116,6 +116,11 @@ Término | Significado
 >>> MoodBoard:
 ![MoodBoard](P3/MoodBoard.png)
 
+Our color palette is chosen that way because earthy tones inspire tranquility and relaxation, which are the feelings we want to transmit. Darker tones make it more elegant.
+The icons are basic and as minimalistic as possible so it doesn’t interfere with the usability of the design
+The font is simple, elegant and direct.
+
+
 >>> Logotipo:
 ![LogoRestaurant4U](img/logo.png)
 
@@ -127,24 +132,24 @@ El logotipo realmente es una imagen cogida de internet
 
 >>> ![LandingPage](P3/LandingPage.png)
 
+We opted for a very simplistic design, with an image of appetizing spanish dishes as a background. In the middle stripe we got the logo for brand recognition, a simple enticing slogan and a clear way to access the website.
+
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> We are going to use Material Design as a Guideline because of its simplicity, the visual quality it produces.
+Besides, it’s the Guideline that all Android users are used to.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Layout: Lo podemos encontrar en el siguiente ![enlace](https://cloud.protopie.io/p/779e42f389)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Publicado en GitHub en estas mismas lineas que estás leyendo ;)
 
 
 ## Paso 4. Evaluación 
