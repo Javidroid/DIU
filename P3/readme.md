@@ -1,5 +1,8 @@
 # DIU - Practica 3, entregables
 
+## Documento extendido y detallado:
+![Documento](P3%20DIU_3.6.pdf)
+
 ## Moodboard (diseño visual + logotipo)   
 ![Moodboard](MoodBoard.png)
 
