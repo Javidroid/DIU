@@ -45,11 +45,10 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![Agatha Schneider](img/Agatha_Schneider_JM.jpg)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
-![Agatha Schneider](img/Agatha_Schneider_JM.png)
 ![Heinz Müller](img/Heinz_Muller_JM.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
