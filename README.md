@@ -29,18 +29,27 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Partiendo del concepto de que la principal diferencia entre un hotel y un hostel es que en los hoteles se reservan habitaciones y en los hosteles se reservan plazas, encontramos que los hosteles observados parecen orientados a diferentes tipos de clientes, moviéndose en el espectro entre hostel puro y hostal/hotel. Hostel 4U y TOC ofrecen reserva de habitaciones privadas, indicando que también se abren a un público más afluente/reservado como familias/parejas, mientras que El Granado ofrece sobres todo servicios de cama barata u oportunidad de conocer gente en el sentido más tradicional de la idea de hostal. Por tanto, quizás no se puedan sacar muchas conclusiones de comprarlos (al menos Granado con los otros dos) con un mismo criterio de valoración ya que no intentan ofrecerte exactamente lo mismo.
+Hostel 4U y TOC apuestan por abrirse a un mercado más amplio sin especializarse, quizás con la intención de dedicarse respondiendo a la demanda más adelante, mientras que El Granado tiene claro que está destinado a un público joven, social e internacional . Aun así los precios del servicio más característico de un hostal (cama individual en una habitación con más gente) no varían mucho entre las cadenas, indicando que El Granado apuesta fuerte por su atmósfera como atractivo principal.
+Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un estándar moderno, con interfaces vistosas e intuitivas, y links a redes sociales. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos seleccionado estas personas porque consideramos que podrían ser usuarios típicos, pero saliéndonos de lo básico y común
+
+![Agatha Schneider](img/Agatha Schneider (User Persona).png)
+![Heinz Müller](img/Heinz Müller (User Persona).png)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+![Agatha Schneider](img/Agatha Schneider (Journey Map).png)
+![Heinz Müller](img/Heinz Müller (Journey Map).png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
