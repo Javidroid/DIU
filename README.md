@@ -113,9 +113,7 @@ Término | Significado
 -----
 
 
->>> MoodBoard:
-![MoodBoard](P3/MoodBoard.png)
-
+>>> ![MoodBoard](P3/MoodBoard.png)
 Our color palette is chosen that way because earthy tones inspire tranquility and relaxation, which are the feelings we want to transmit. Darker tones make it more elegant.
 The icons are basic and as minimalistic as possible so it doesn’t interfere with the usability of the design
 The font is simple, elegant and direct.
@@ -124,15 +122,12 @@ The font is simple, elegant and direct.
 >>> Logotipo:
 ![LogoRestaurant4U](img/logo.png)
 
-El logotipo realmente es una imagen cogida de internet
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
 >>> ![LandingPage](P3/LandingPage.png)
-
-We opted for a very simplistic design, with an image of appetizing spanish dishes as a background. In the middle stripe we got the logo for brand recognition, a simple enticing slogan and a clear way to access the website.
+>>> We opted for a very simplistic design, with an image of appetizing spanish dishes as a background. In the middle stripe we got the logo for brand recognition, a simple enticing slogan and a clear way to access the website.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
