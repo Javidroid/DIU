@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
+![Moodboard](MoodBoard.png)
 
 
 ## Landing Page
