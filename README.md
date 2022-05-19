@@ -116,14 +116,16 @@ Término | Significado
 >>> MoodBoard:
 ![MoodBoard](P3/MoodBoard.png)
 
->>> ![LogoRestaurant4U](img/logo.png)
+>>> Logotipo:
+![LogoRestaurant4U](img/logo.png)
+
 El logotipo realmente es una imagen cogida de internet
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> ![LandingPage](P3/LandngPage.png)
+>>> ![LandingPage](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
