@@ -17,7 +17,7 @@ Logotipo:
 Miembros
  * :bust_in_silhouette:   Javier Florido Cartolano     :octocat:     
  * :bust_in_silhouette:   Alejandro Pérez Argüello     :octocat:
- * :bust_in_silhouette:   Yelyzabeta Skochko           :octocat:
+ * :bust_in_silhouette:   Yelyzaveta Skochko           :octocat:
 
 ----- 
 
