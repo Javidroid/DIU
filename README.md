@@ -2,28 +2,24 @@
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
 Grupo: DIU3.6.  Curso: 2021/22 
-Updated: 10/3/2022
+Updated: 19/05/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Restaurant 4U
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nos vamos a encargar de hacer el restaurante enlazado al hostel "Hostel4U"
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
-
+>>> ![LogoRestaurant4U](img/logo.png)
+>>> 
 Miembros
  * :bust_in_silhouette:   Javier Florido Cartolano     :octocat:     
  * :bust_in_silhouette:   Alejandro Pérez Argüello     :octocat:
  * :bust_in_silhouette:   Yelyzaveta Skochko           :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
