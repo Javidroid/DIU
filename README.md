@@ -38,8 +38,8 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
 >>> Hemos seleccionado estas personas porque consideramos que podrían ser usuarios típicos, pero saliéndonos de lo básico y común
 
-![Agatha Schneider](img/Agatha Schneider (User Persona).png)
-![Heinz Müller](img/Heinz Müller (User Persona).png)
+![Agatha Schneider](img/Agatha_Schneider_UP.png)
+![Heinz Müller](img/Heinz_Muller_UP.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
@@ -48,16 +48,16 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-![Agatha Schneider](img/Agatha Schneider (Journey Map).png)
-![Heinz Müller](img/Heinz Müller (Journey Map).png)
+![Agatha Schneider](img/Agatha_Schneider_JM.png)
+![Heinz Müller](img/Heinz_Muller_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - [Enlace al documento:](https://github.com/Javidroid/DIU/blob/master/P1/Usability%20Review.xls)
+>>> - Valoración final (numérica): 71 - Good
+>>> - Comentario sobre la valoración:  Como resumen, podemos mencionar que tiene un uso aceptable. No es el mejor, ya que contiene fallos, pero es lo suficientemente bueno como para que gran parte de las personas puedan utilizarlo, con la salvedad de personas con muy poca o ninguna experiencia con la tecnología, que se encontrarán altamente perdidos y sin saber qué hacer. Tal vez se pueda también dar el caso de una persona con mediana experiencia que tenga que repetir el proceso un par de veces porque se equivoque, o que tarde un poco más tiempo de lo normal para adaptarse, pero para resolver este problema se requeriría una gran cantidad de esfuerzo de diseño que no merece la pena gastar. Volver a mencionar que se echa de menos información referente a puntos de interés cercanos al sitio, formas de llegar, rutas de transporte, etc.
 
 
 ## Paso 2. UX Design  
