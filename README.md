@@ -67,7 +67,7 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante  | Críticas | Preguntas | Nuevas ideas
+ Interesting  | Criticism | Questions | New ideas
  |-------|---------------|------------|------------
  |Illustrative, visual and elegand page | Upper bar hides some text | Where can I find info about interesting places nearby? | Fix the navigation bar|
  | Good pricing | Little info about the location and hotspots around it | | Add new languages|
@@ -84,12 +84,24 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> We want to improve some aspects of the page that can be polished. For example, the navigation bar that eclipses part of the text and keeps the user from reading it. 
+We want to enhance the navigation so its easier to find the ways to reach the hostel. Also, add features including places of interest near the hostel, so we can upgrade the user experience.
+Also, there’s a problem of the page’s indexation. So, when you are in one sub-page and you want to go to home page, it leads you to another version, maybe an older one.
+But the improvement we are going to make is implementing the restaurant page because our clients want to taste typical Spanish food, and this will make better business.
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+User Groups |	Foreign users |	National Users |	Young users |	Old users|
+------------|---------------|----------------|-------------|----------|
+|Fix navigation bar|	High	|High	|High|	High|
+|Add new languages|	High|	Low|	Low-Med|	Low|
+|Add navigation coherence|	Med-High|	Med-High|	Med-High|	Medium|
+|Add touristic info|	Med-High|	Med	|Med|	High|
+|Ease arriving to hostel info|	Med-High|	Med	|Med	|High|
+|Add restaurant page|	High|	High|	High-Med|	High|
+ 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -98,9 +110,21 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Label|	Scope Note|
+-----|-----------|
+|Homepage|	The main hub from which to access all the resources|
+|About Us|	Information about the hostel owners|
+|Contact Information|	Social media, email, phone numbers to reach relevant contacts|
+|Our Team|	Brief introduction of the owners and the staff|
+|Make Reservation|	Make a personalized reservation online|
+|Language switch	|Choose your language of preference|
+|About the Hostel	|Information about the hostel itself and its surroundings|
+|Events and Places Nearby|	A list of cultural sites such as restaurants, museums, concert venues etc… that may be interesting to the visitors|
+|Our Location and how to get here|	Helpful information for customers to find their way to the hostel|
+|Map	|Map of the entourage of the hostel|
+|Transportation guide|	An article detailing how to reach the hostel from the most important airports/train and bus stations, including bus/metro lines.|
+|Restaurant Menu	|An online menu for the hostel’s own restaurant|
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
