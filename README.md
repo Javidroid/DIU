@@ -69,7 +69,10 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
  Interesante  | Críticas | Preguntas | Nuevas ideas
  |-------|---------------|------------|------------
- | hola | adios | hola | adios|
+ |Illustrative, visual and elegand page | Upper bar hides some text | Where can I find info about interesting places nearby? | Fix the navigation bar|
+ | Good pricing | Little info about the location and hotspots around it | | Add new languages|
+ | Looks professional | Only English and Spanish as language options | | Improve navigation and design coherence|
+ | | | | Make a page for the restaurant|
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
