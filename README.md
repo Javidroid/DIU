@@ -68,7 +68,6 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 
 
  Interesante  | Críticas  
- hola |
 | ------------- | -------
   Preguntas | Nuevas ideas
   
