@@ -109,6 +109,7 @@ User Groups |	Foreign users |	National Users |	Young users |	Old users|
 
 
 >>> Identificar términos para diálogo con usuario  
+>>> ![Sitemap](img/sitemap.png)
 
 Label|	Scope Note|
 -----|-----------|
