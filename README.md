@@ -67,9 +67,9 @@ Finalmente, en cuanto a páginas web, las tres opciones están actualizadas a un
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante  | Críticas  
-| ------------- | -------
-  Preguntas | Nuevas ideas
+ Interesante  | Críticas | Preguntas | Nuevas ideas
+ |-------|---------------|------------|------------
+ | hola | adios | hola | adios|
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
