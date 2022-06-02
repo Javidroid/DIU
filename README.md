@@ -182,7 +182,7 @@ Publicado en GitHub en estas mismas lineas que estás leyendo ;)
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> [Restaurante del Hostel4U](https://github.com/LegalyAlexander/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -193,10 +193,10 @@ Publicado en GitHub en estas mismas lineas que estás leyendo ;)
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Eustaquio     | H / 50   | Desempleado | Avanzada    | Amargo       | Linux      | A 
+| Loli          | M / 43   | RRHH        | Baja        | Estresada    | Android    | A 
+| Virginia      | M / 27   | Diseño Gráfico| Avanzada  | Alegre       | Mac        | B 
+| Juan José     | H / 42   | Albañil     | Media       | Trabajador   | Windoes    | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -206,7 +206,8 @@ Publicado en GitHub en estas mismas lineas que estás leyendo ;)
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> 
+>>> By looking at the numbers we conclude that prototype B is slightly better than A. We can infer that maybe B has more info and interactive actions than A. This can be better or worse depending how you look at it. A is better for inexperienced users, as it's simpler, but B has more functionality. It is also clear that, graphically, B catches the eye more effectively than A, and has a more iconic graphic design, which gave it the edge in terms of user satisfaction.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
