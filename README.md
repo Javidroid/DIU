@@ -213,12 +213,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Our usability report can be found ![here](P4/P4_UsabReport_3.10_doneby_3.6.pdf) or https://github.com/Javidroid/DIU/blob/master/P4/P4_UsabReport_3.10_doneby_3.6.pdf
+>> Our usability report can be found [here](P4/P4_UsabReport_3.10_doneby_3.6.pdf) or https://github.com/Javidroid/DIU/blob/master/P4/P4_UsabReport_3.10_doneby_3.6.pdf
+>> 
 
 
 
->>> Valoración personal 
-
+>>> Valoración personal:
+>>> Personalmente (Javi) pienso que el trabajo hecho está bien guapardo y que mola un montón cómo es literalmente clavada a la página original, a seguir así xabale!
 
 
 ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
