@@ -166,7 +166,7 @@ Besides, it’s the Guideline that all Android users are used to.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Lo podemos encontrar en el siguiente ![enlace](https://cloud.protopie.io/p/779e42f389)
+>>> Layout: Lo podemos encontrar en el siguiente enlace: https://cloud.protopie.io/p/779e42f389
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
