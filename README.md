@@ -213,7 +213,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> Our usability report can be found ![here](P4/P4_UsabReport_3.10_doneby_3.6.pdf) or https://github.com/Javidroid/DIU/blob/master/P4/P4_UsabReport_3.10_doneby_3.6.pdf
 
 
 
