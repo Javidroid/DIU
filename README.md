@@ -206,7 +206,7 @@ Publicado en GitHub en estas mismas lineas que estás leyendo ;)
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> 
+>>> ![Roleplay](img/Roleplay.png)
 >>> By looking at the numbers we conclude that prototype B is slightly better than A. We can infer that maybe B has more info and interactive actions than A. This can be better or worse depending how you look at it. A is better for inexperienced users, as it's simpler, but B has more functionality. It is also clear that, graphically, B catches the eye more effectively than A, and has a more iconic graphic design, which gave it the edge in terms of user satisfaction.
 
 
